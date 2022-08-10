@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tcweb-dev
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, EXPRESS
-- 💞️ I’m not looking to collaborate on yet, because I don't know enough yet.
+- 💞️ I’m not looking to collaborate on anything yet, because I don't know enough.
 - 📫 How to reach me 
 
 <!---
